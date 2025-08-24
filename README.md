@@ -110,3 +110,103 @@ In a booking system, a user-friendly design is paramount. A confusing or cumbers
 - Copyright information  
 
 Each component will be designed for **reusability and consistency** across the application.
+
+
+
+
+## Overview
+This project is a simplified clone of the AirBnB web application.  
+It is built step by step to demonstrate how a full-stack web application works, covering backend, frontend, and deployment.
+
+## Project Goals
+- Build a command-line interpreter to manage AirBnB objects.
+- Develop a storage system (JSON, database).
+- Create RESTful APIs with Flask.
+- Build a dynamic front-end with HTML, CSS, and JavaScript.
+- Deploy the application on a server.
+
+## Tech Stack
+- **Backend:** Python, Flask  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Database:** MySQL  
+- **Version Control:** Git & GitHub  
+- **Deployment:** Linux/Ubuntu, Nginx, Gunicorn  
+
+---
+
+## Project Roles and Responsibilities
+
+### Project Manager
+- Oversees project timeline and deliverables.  
+- Coordinates communication between team members.  
+- Ensures milestones are met and risks are managed.  
+- Keeps the project aligned with goals and deadlines.  
+
+### Frontend Developers
+- Implement the UI components based on the design system.  
+- Ensure responsive and mobile-friendly layouts.  
+- Integrate frontend with backend APIs.  
+- Optimize performance and maintain accessibility standards.  
+
+### Backend Developers
+- Build and maintain APIs and server-side logic.  
+- Design and manage database schemas.  
+- Handle authentication, authorization, and business rules.  
+- Ensure scalability, security, and reliability of the backend.  
+
+### Designers
+- Create wireframes, mockups, and prototypes.  
+- Maintain consistency in branding and visual language.  
+- Ensure usability and intuitive workflows.  
+- Collaborate closely with frontend developers to bring designs to life.  
+
+### QA/Testers
+- Write and execute test cases (unit, integration, end-to-end).  
+- Perform manual and automated testing.  
+- Report and track bugs.  
+- Ensure the product meets quality standards before deployment.  
+
+### DevOps Engineers
+- Manage server infrastructure and deployments.  
+- Set up and maintain CI/CD pipelines.  
+- Monitor system performance and uptime.  
+- Ensure secure and reliable hosting environments.  
+
+### Product Owner
+- Define project requirements and priorities.  
+- Maintain the product backlog and roadmap.  
+- Represent stakeholders and end-users.  
+- Ensure the final product meets business and user needs.  
+
+### Scrum Master
+- Facilitate Agile ceremonies (sprints, stand-ups, retrospectives).  
+- Remove blockers for the team.  
+- Encourage collaboration and productivity.  
+- Ensure Agile principles and practices are followed.
+
+
+## UI Component Patterns
+
+To ensure **reusability, consistency, and scalability** in the design, the project will use a set of planned UI components. These will serve as building blocks across multiple pages of the application.
+
+### Navbar
+- Contains the **logo**, **search bar**, and **user navigation links**.  
+- Includes a **responsive menu** that adapts to mobile and tablet devices.  
+- Provides quick access to key sections such as login, profile, and bookings.  
+
+### Property Card
+- Displays an image of the property.  
+- Shows **basic details** such as price per night, location, and ratings.  
+- Includes a **favorite button** to allow users to save properties.  
+- Designed with a **responsive layout** for grid and list views.  
+
+### Footer
+- Contains **site links** (About, Contact, Help).  
+- Displays **company information** and **social media links**.  
+- Includes **copyright details**.  
+- Ensures consistency across all pages of the application.
+
+
+### Author
+###Name :- Gelagay Getahun
+###User_Name :- [@Gela-S3] (https://github.com/Gela-S3)
