@@ -19,6 +19,7 @@ This project is a simplified replica of the popular AirBnB web application. The 
 - **Database:** MySQL
 - **Other:** Git/GitHub, RESTful APIs
 
+## Team Roles
 
 
 
